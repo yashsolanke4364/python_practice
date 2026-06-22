@@ -1,0 +1,10 @@
+name=input("enter the student name :")
+collage=input("eneter the collage name :")
+branch=input("enter the branch name :")
+
+print()
+print("===== PROFILE =====")
+print("student name:",name.upper())
+print("collage :", collage.lower())
+print("branch :", branch.upper())
+print("===================")
